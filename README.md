@@ -1,0 +1,2 @@
+# Arcades
+A simple arcades
